@@ -1,0 +1,51 @@
+.bg-match {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.loader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rcb {
+  background-image: linear-gradient(#a4261d, #1e293b);
+}
+.dc {
+  background-image: linear-gradient(#4f5db0, #1e293b);
+}
+.srh {
+  background-image: linear-gradient(#f26d22, #1e293b);
+}
+.kkr {
+  background-image: linear-gradient(#5755a7, #1e293b);
+}
+.kxp {
+  background-image: linear-gradient(#d91c1f, #1e293b);
+}
+.csk {
+  background-image: linear-gradient(#f7db00, #1e293b);
+}
+.rr {
+  background-image: linear-gradient(#da237b, #1e293b);
+}
+.mi {
+  background-image: linear-gradient(#13418b, #1e293b);
+}
+.team-banner {
+  height: 20%;
+  width: 90%;
+  margin: 5px;
+  border-radius: 5px;
+}
+.latest-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.recent-matches-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
